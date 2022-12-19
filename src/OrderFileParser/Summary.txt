@@ -1,0 +1,4 @@
+This project is to read order file and create orders.
+
+Model classes are defined and ToString() methods are implemented.
+OrderParser class is defined to read and write order file.
