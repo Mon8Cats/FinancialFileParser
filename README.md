@@ -1,3 +1,3 @@
 # FinancialFileParser
 
-A consol application to read order file and parse Order.
+A consol application to read order file and parse Order objects.
